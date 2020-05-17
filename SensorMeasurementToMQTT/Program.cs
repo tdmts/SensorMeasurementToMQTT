@@ -17,6 +17,8 @@ namespace SensorMeasurementToMQTT
         {
             Program program = new Program();
             program.Run();
+
+            Console.ReadLine();
         }
 
 
